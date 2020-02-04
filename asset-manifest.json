@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cityguide-oslo/static/css/main.0d985a81.chunk.css",
+    "main.js": "/cityguide-oslo/static/js/main.65bd332e.chunk.js",
+    "main.js.map": "/cityguide-oslo/static/js/main.65bd332e.chunk.js.map",
+    "runtime-main.js": "/cityguide-oslo/static/js/runtime-main.ce54e2f8.js",
+    "runtime-main.js.map": "/cityguide-oslo/static/js/runtime-main.ce54e2f8.js.map",
+    "static/js/2.c883093b.chunk.js": "/cityguide-oslo/static/js/2.c883093b.chunk.js",
+    "static/js/2.c883093b.chunk.js.map": "/cityguide-oslo/static/js/2.c883093b.chunk.js.map",
+    "index.html": "/cityguide-oslo/index.html",
+    "precache-manifest.be2bb2843e736463c5701d7ee9cdb1f5.js": "/cityguide-oslo/precache-manifest.be2bb2843e736463c5701d7ee9cdb1f5.js",
+    "service-worker.js": "/cityguide-oslo/service-worker.js",
+    "static/css/main.0d985a81.chunk.css.map": "/cityguide-oslo/static/css/main.0d985a81.chunk.css.map",
+    "static/js/2.c883093b.chunk.js.LICENSE": "/cityguide-oslo/static/js/2.c883093b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce54e2f8.js",
+    "static/js/2.c883093b.chunk.js",
+    "static/css/main.0d985a81.chunk.css",
+    "static/js/main.65bd332e.chunk.js"
+  ]
+}
