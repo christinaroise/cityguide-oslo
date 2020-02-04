@@ -1,0 +1,50 @@
+.explorePage{
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    display: inherit;
+}
+
+
+.itineraryLibrary{
+    background-color: white !important;
+    position: relative;
+    padding: 1rem;
+    height: 13rem;
+}
+
+.itineraryLibraryTxt{
+    bottom: 0;
+    position: absolute;
+    padding-bottom: 2rem;
+}
+
+.itineraryCardContainer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    overflow-x: scroll;
+    padding: 1rem;
+}
+
+.itineraryCardContainer::-webkit-scrollbar {
+    display: none;
+}
+
+.itineraryCard{
+    background-color: #56756D;
+    width: 17rem;
+    height: 24rem;
+    border-radius: 1rem;
+    position: relative;
+}
+
+.itineraryCardTxt{
+    bottom: 0;
+    position: absolute;
+    padding: 1rem;
+    color: white !important;
+}

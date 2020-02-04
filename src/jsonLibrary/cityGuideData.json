@@ -1,0 +1,228 @@
+{
+    "type": "cityGuideData",
+    "features": {
+        "attractions": [
+            {
+                "NAME": "SALT",
+                "properties": {
+                    "ATTRACTION_ID": "001",
+                    "STREET": "Langkaia 1",
+                    "CITY": "0150 Oslo"
+                },
+                "geometry": {
+                    "coordinates": [10.747465133666992, 59.907508850097656]
+                }
+            },
+        
+            {
+                "NAME": "Viegelandsparken",
+                "properties": {
+                    "ATTRACTION_ID": "002",
+                    "STREET": "Nobels gate 32",
+                    "CITY": "0268 Oslo"
+                },
+                "geometry": {
+                    "coordinates": [10.6996969, 59.9228681]
+                }
+            },
+        
+            {
+                "NAME": "Lille Lab",
+                "properties": {
+                    "ATTRACTION_ID": "003",
+                    "STREET": "Bøkkerveien 4",
+                    "CITY": "0579 Oslo"
+                },
+                "geometry": {
+                    "coordinates": [10.793998, 59.92698]
+                }
+            },
+
+            {
+                "NAME": "Holmenkollen Zip Line",
+                "properties": {
+                    "ATTRACTION_ID": "004",
+                    "STREET": "Kongeveien 5",
+                    "CITY": "0787 Oslo"
+                },
+                "geometry": {
+                    "coordinates": [10.666812, 59.9626379]
+                }
+            }
+        ],
+
+        "cafes": [
+            {
+                "NAME": "Stockfleths",
+                "properties": {
+                    "CAFE_ID": "001",
+                    "STREET": "Brynjulf Bulls plass 1",
+                    "CITY": "0250 Oslo"
+                },
+                "geometry": {
+                    "coordinates": [10.7302089, 59.911591]
+                }
+            },
+        
+            {
+                "NAME": "Fuglen",
+                "properties": {
+                    "CAFE_ID": "002",
+                    "STREET": "Universitetsgata 2",
+                    "CITY": "0164 Oslo"
+                },
+                "geometry": {
+                    "coordinates": [10.7404134, 59.916794]
+                }
+            },
+        
+            {
+                "NAME": "Godt Brød",
+                "properties": {
+                    "CAFE_ID": "003",
+                    "STREET": "Thorvald Meyers gate 49",
+                    "CITY": "0555 Oslo"
+                },
+                "geometry": {
+                    "coordinates": [10.758884, 59.92401]
+                }
+            },
+            {
+                "NAME": "Anne på landet",
+                "properties": {
+                    "CAFE_ID": "004",
+                    "STREET": "Frognerveien 67",
+                    "CITY": "0266"
+                },
+                "geometry": {
+                    "coordinates": [10.702639, 59.923972]
+                }
+            }
+        ],
+
+        "hotels": [
+            {
+                "NAME": "Amerikalinjen",
+                "properties": {
+                    "HOTEL_ID": "001",
+                    "STREET": "Jernbanetorget 2",
+                    "CITY": "0154 Oslo"
+                },
+                "geometry": {
+                    "coordinates": [10.749568, 59.910765]
+                }
+            },
+        
+            {
+                "NAME": "Camillas Hus",
+                "properties": {
+                    "HOTEL_ID": "002",
+                    "STREET": "Parkveien 31",
+                    "CITY": "0350 Oslo"
+                },
+                "geometry": {
+                    "coordinates": [10.7317997, 59.922352]
+                }
+            },
+        
+            {
+                "NAME": "Oslo Guldsmeden",
+                "properties": {
+                    "HOTEL_ID": "003",
+                    "STREET": "Parkveien 78",
+                    "CITY": "0254 Oslo"
+                },
+                "geometry": {
+                    "coordinates": [10.719155, 59.912305]
+                }
+            },
+            {
+                "NAME": "Frogner House Apartments",
+                "properties": {
+                    "HOTEL_ID": "004",
+                    "STREET": "Huitfeldts gate 19",
+                    "CITY": "0253 Oslo"
+                },
+                "geometry": {
+                    "coordinates": [10.723724, 59.913485]
+                }
+            }
+        ],
+
+        "nightlifes": [
+            {
+                "NAME": "Torggata Botaniske",
+                "properties": {
+                    "BAR_ID": "001",
+                    "STREET": "Torggata 17B",
+                    "CITY": "0183 Oslo"
+                },
+                "geometry": {
+                    "coordinates": [10.751991, 59.916183]
+                }
+            },
+        
+            {
+                "NAME": "Bare Jazz",
+                "properties": {
+                    "BAR_ID": "002",
+                    "STREET": "Grensen 8",
+                    "CITY": "0159 Oslo"
+                },
+                "geometry": {
+                    "coordinates": [10.7436475, 59.9136336]
+                }
+            },
+        
+            {
+                "NAME": "Aku Aku Tiki Bar",
+                "properties": {
+                    "BAR_ID": "003",
+                    "STREET": "Thorvald Meyers gate 32",
+                    "CITY": "0555 Oslo"
+                },
+                "geometry": {
+                    "coordinates": [10.7591347, 59.9272802]
+                }
+            }
+        ],
+
+        "restaurants": [
+            {
+                "NAME": "Mantra",
+                "properties": {
+                    "RESTAURANT_ID": "001",
+                    "STREET": "Dronningens Gate 19",
+                    "CITY": "0154 Oslo"
+                },
+                "geometry": {
+                    "coordinates": [10.74671, 59.911053]
+                }
+            },
+        
+            {
+                "NAME": "Smia Galleri",
+                "properties": {
+                    "RESTAURANT_ID": "002",
+                    "STREET": "Opplandsgata 19",
+                    "CITY": "0657 Oslo"
+                },
+                "geometry": {
+                    "coordinates": [10.47072, 59.54236]
+                }
+            },
+        
+            {
+                "NAME": "Klosteret",
+                "properties": {
+                    "RESTAURANT_ID": "003",
+                    "STREET": "Fredensborgveien 13",
+                    "CITY": "0177 Oslo"
+                },
+                "geometry": {
+                    "coordinates": [10.7468122, 59.9177889]
+                }
+            }
+        ]
+    }
+}

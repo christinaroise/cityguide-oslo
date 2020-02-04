@@ -1,0 +1,73 @@
+.itineraryAnimation{
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+}
+
+.itineraryAnimation button:first-child{
+    top: 0;
+    margin: 1rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    position: absolute; 
+    z-index: 5;
+    background-color: #56756D;
+    border: none;
+    border-radius: 2rem;
+    color: white;
+}
+
+.itineraryMap{
+    width: 100%;
+    height: 100%;
+}
+
+
+.itineraryAnimationInfoContainer{
+    position: absolute;
+    bottom: 0;
+    padding: 1rem;
+    z-index: 5;
+    height: 17rem;
+    background-color: #56756D;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    color: white;
+}
+
+
+.itineraryAnimationInfo{
+    padding-top: 3.5rem;
+}
+
+.camillasHus{
+    display: inherit;
+}
+
+.salt{
+    display: none;
+}
+
+.mantra{
+    display: none;
+}
+
+.itineraryAnimation button{
+    width: 50%;
+    height: 2rem;
+    background-color: white;
+    border: none;
+    border-radius: 0.5rem;
+    color: #56756D;
+    text-transform: capitalize;
+    margin: 1rem 0rem;
+    font-weight: 700;
+    font-size: 1rem;   
+}
+
+.mantra button{
+    width: 60%;
+}
